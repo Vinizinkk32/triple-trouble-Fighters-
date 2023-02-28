@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				240
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "Majin_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				55
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "Majin_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				95
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "Majin_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "Majin_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				140
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Majin_IDLE",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				140
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Majin_IDLE",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MajinOG",
+	"position": [
+		50,
+		400
+	],
+	"healthicon": "majin-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		2,
+		214
+	],
+	"camera_position": [
+		-50,
+		-200
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}
